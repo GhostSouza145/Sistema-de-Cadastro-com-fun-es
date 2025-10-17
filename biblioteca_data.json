@@ -1,0 +1,25 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "The Bay harbor Butcher",
+      "autor": "Raphael",
+      "ano": 2025,
+      "genero": "masculino",
+      "preco": 250.0,
+      "disponivel": true,
+      "emprestado_para": ""
+    },
+    {
+      "id": 2,
+      "titulo": "Raphael lindao",
+      "autor": "Raphael",
+      "ano": 2025,
+      "genero": "ROmance",
+      "preco": 250.0,
+      "disponivel": true,
+      "emprestado_para": ""
+    }
+  ],
+  "proximo_id": 3
+}
